@@ -1,11 +1,27 @@
 body {
   margin: 0;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 nav {
   position: fixed;
   top: 10px;
   left: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav ul li {
+  background-color: #65696C;
+  padding: 3px;
+  margin-bottom: 2px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
 }
 
 header {
