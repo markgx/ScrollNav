@@ -8,7 +8,16 @@ nav {
   left: 10px;
 }
 
+header {
+  position: fixed;
+  top: 10px;
+  left: 200px;
+  font-size: 24pt;
+  background-color: #fff;
+  padding: 5px;
+}
+
 section {
-  padding-left: 200px;
+  padding: 60px 40px 40px 200px;
   height: 700px;
 }
